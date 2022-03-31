@@ -13,6 +13,7 @@ The blockchain world right now is a hot bowl of funny looking words. Funny looki
 ## Table of Contents
 1. [Blockchain](https://github.com/kohasummons/awesome-blockchain-glossary/blob/deb58a6d6ed384dc1bca5ec3c72f0895fd206f2b/glossary/Blockchain.md)
 
+
 ## List of Sappy Names that might be perfect for this project:
 - Moodling
 - Gooble 
@@ -22,6 +23,7 @@ The blockchain world right now is a hot bowl of funny looking words. Funny looki
 
 ## Contribution
 Ohhhh, you want to add some thing to this project? Cool! Make a quick stop at the Onboarding station to learn how best to contribute.
+
 Onboarding station -> [Contribution Guidelines](https://damn.what)
 
 ## License
