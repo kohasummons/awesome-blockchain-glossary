@@ -1,30 +1,63 @@
-# awesome-blockchain-glossary 
-🚧 A not-so-serious compilation of blockchain jargons explained in the most ridiculous ways.
+![Banner](assets/Banner.png)
+
+# awesome-blockchain-glossary
+
+🚧 A not-so-serious compilation of blockchain jargons explained in the most ridiculous and simple way.
 
 ## Description
-The blockchain world right now is a hot bowl of funny looking words. Funny looking words with really long boring terse meaning. I find it easy to understand a concept if it is explained with `everyday things`and `Analogies`. This hopes to serve as a lubricant to ease new blockchain devs into the ecosystem. I hope it matters.
 
-## Usage
-### Are you learning blockchain concepts?
-❇️ Good! Then you are perfect. Use the search feature in your browser to find what ever term you need to understand. Get the good stuff without the metal buried in.
+The blockchain world right now is a hot bowl of funny looking words. Funny looking words with really long convulated and terse meaning. I find it easy to understand a concept if it is explained with `everyday things`and `Analogies`. This hopes to serve as a lubricant to ease new blockchain devs into the ecosystem. I hope it matters.
 
-✨ Wait, hold up! If you are learning blockchain development, you could also contribute to this project no matter what level of lesson you are. Look at the contribution guidline, or as i like to refer to it `The Onboarding station`, for easy steps to do this.
+Please, give this project a star ⭐. It is free.
 
 ## Table of Contents
-1. [Blockchain](https://github.com/kohasummons/awesome-blockchain-glossary/blob/deb58a6d6ed384dc1bca5ec3c72f0895fd206f2b/glossary/Blockchain.md)
 
+- [awesome-blockchain-glossary](#awesome-blockchain-glossary)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Usage](#usage)
+    - [✔️ How to use](#️-how-to-use)
+    - [✔️ Are you learning blockchain concepts?](#️-are-you-learning-blockchain-concepts)
+    - [✔️ I Want to contribute to Open Source](#️-i-want-to-contribute-to-open-source)
+  - [Glossary](#glossary)
+    - [🏴 Blockchain](#-blockchain)
+    - [📒 Solidity](#-solidity)
+  - [Contribution](#contribution)
+  - [License](#license)
 
-## List of Sappy Names that might be perfect for this project:
-- Moodling
-- Gooble 
-- Blockhead
-- Blockies
+## Usage
 
+### ✔️ How to use
+
+Use your browser search feature to quickly find the definition you are intrested in.
+
+### ✔️ Are you learning blockchain concepts?
+
+ Good! Then you are perfect. Use the search feature in your browser to find what ever term you need to understand. Get the good stuff without lumps.
+
+ Wait, hold up! If you are learning blockchain development, you could also contribute to this project no matter what level of development you are. Look at the [Contributing guidelines](docs/contributing.md), or as i like to refer to it [`The Onboarding station`](docs/contributing.md), for easy steps to do this.
+
+### ✔️ I Want to contribute to Open Source
+
+No fuss. That's Cool! Here is one. Read the [Contributing guidelines](docs/contributing.md) to get started.
+
+## Glossary
+
+### 🏴 Blockchain
+
+- [Blockchain](glossary/Blockchain/Blockchain.md)
+- [DEFI](glossary/Blockchain/DEFI.md)
+
+### 📒 Solidity
+
+- [Solidity](glossary/Solidity/Solidity.md)
 
 ## Contribution
-Ohhhh, you want to add some thing to this project? Cool! Make a quick stop at the Onboarding station to learn how best to contribute.
 
-Onboarding station -> [Contribution Guidelines](https://damn.what)
+We are happily waiting for your shiny new contribution.
+Make a quick stop at the Onboarding station to learn how best to contribute.
+Onboarding station --> [Contribution Guidelines](docs/contributing.md)
 
 ## License
-[MIT](https://damn.what)
+
+[Creative Commons](LICENSE)
